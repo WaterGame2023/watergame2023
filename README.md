@@ -11,7 +11,7 @@
 ###
 
 
-<p align="left">🤖 Lead Programmer for FRC 2531, the RoboHawks<br>✨ Creating bugs and very bad code since 2016<br>🚀 My current development task is an <a href="https://github.com/WaterGame2023/tags-of-april">AprilTag Vision Recognition System</a> for FRC use.<br> 🧑‍💻 Developer for the <a href="https://github.com/FRCDiscord/Dozer">Dozer Discord Bot</a><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" height="16" width="16" alt="chrome logo" /> I can code so much faster and better when not on a chromebook</p>
+<p align="left">🤖 Lead Programmer for FRC 2531, the RoboHawks<br>✨ Creating bugs and very bad code since 2016<br>🚀 My current development task is an <a href="https://github.com/WaterGame2023/tags-of-april">AprilTag Vision Recognition System</a> for FRC use.<br> 🧑‍💻 Developer for the <a href="https://github.com/FRCDiscord/Dozer">Dozer Discord Bot</a><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="16" width="16" alt="chrome logo" /> I can code so much faster and better when not on a chromebook</p>
 
 ###
 
