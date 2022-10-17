@@ -1,4 +1,4 @@
-<h1 align="left">Howdy! <img src="https://cdn.discordapp.com/emojis/1031642704972619886.gif?size=96&quality=lossless" height="40" width="40" alt="dumpsterfire" /> What's up?</h1>
+<h1 align="left">Howdy! <img src="https://cdn.discordapp.com/emojis/452947287728062475.gif?size=96&quality=lossless" height="40" width="40" alt="dumpsterfire" /> What's up?</h1>
 
 ###
 
